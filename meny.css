@@ -1,0 +1,33 @@
+.box {
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+.left {
+    background-color: red;
+    padding: 100px;
+    margin: 20px;
+    width: 250px;
+    height: 125px;
+    color: white;
+    font-size: 60px;
+    text-align: center;
+    justify-content: end;
+    justify-content: center;
+    align-items: center;
+}
+
+.zidan{
+    display: flex;
+    gap: 200px;
+    justify-content: center;
+    font-size: 22px;
+
+}
+
+h1 {
+    text-align: center;
+    color: black;
+    font-size: 40px;
+}
